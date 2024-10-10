@@ -1,4 +1,2 @@
 # Sangyeon-memo
-test basic repository functions
-
-###제발 되라
+### 2020732019 윤상연
